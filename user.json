@@ -1,0 +1,18 @@
+[
+  {
+    "id": "8a16e7f1-c14b-4bc9-82b3-9239ca94a4db",
+    "name": "Adish",
+    "email": "adisha@gmail.com",
+    "age": 21,
+    "createdAt": "2026-10-20T15:20:43.614Z",
+    "updatedAt": "2026-10-20T15:20:43.614Z"
+  },
+  {
+    "id": "524aefe9-bfd4-464c-a861-3110c57b6fe6",
+    "name": "Shilin updated",
+    "email": "shilin@gmail.com",
+    "age": 21,
+    "createdAt": "2026-10-20T15:22:15.752Z",
+    "updatedAt": "2026-10-20T16:38:38.831Z"
+  }
+]
