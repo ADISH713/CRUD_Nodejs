@@ -14,5 +14,21 @@
     "age": 21,
     "createdAt": "2026-10-20T15:22:15.752Z",
     "updatedAt": "2026-10-20T16:38:38.831Z"
+  },
+  {
+    "id": "6fa3d027-5141-4bbd-adff-dbacec57d449",
+    "name": "Adish",
+    "email": "adish@example.com",
+    "age": 24,
+    "createdAt": "2026-10-29T05:06:16.022Z",
+    "updatedAt": "2026-10-29T05:06:16.022Z"
+  },
+  {
+    "id": "ac560f64-e84d-49f3-80a2-910e584ac794",
+    "name": "Adish",
+    "email": "adish1@example.com",
+    "age": 24,
+    "createdAt": "2026-10-29T05:55:13.173Z",
+    "updatedAt": "2026-10-29T05:55:13.173Z"
   }
 ]
